@@ -1,0 +1,113 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+  }
+  h1 {
+    color: red;
+  }
+  h3 {
+    color: orange;
+  }
+h4 {color: green;
+}
+.box0 {
+
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    
+    }
+
+    .röd, .gul, .grön {
+      width: 100px;
+      height: 100px;
+
+    }
+
+    .gul, .grön, .röd {
+
+      margin-top: 5px;
+
+    }
+
+    .röd {
+
+      background-color: red;
+      border: 10px solid darkred;
+    }
+
+    .gul {
+
+      background-color: yellow;
+      border: 10px solid orange
+
+    }
+
+    .grön {
+
+      background-color: green;
+      border: 10px solid darkgreen
+    }
+
+  
+    .box02 {
+      background-color: white;
+      display: inline-block;
+      padding: 10px
+
+
+      
+    }  
+    .röd2, .gul2, .grön2 {
+      width: 100px;
+   height: 100px;
+      }
+.gul2, .grön2, .röd2 
+
+{ 
+  
+  margin-top: 5px
+
+}
+
+.röd2 {
+  background-color: red;
+  border: 10px solid darkred;
+
+
+
+}
+.inner1 {
+  height: 50%;
+  width: 50%%;
+ 
+background-color: black;
+
+
+}
+
+
+.gul2 {
+
+  background-color: yellow;
+  border: 10px solid orange
+}
+.inner2 {
+  height: 50%;
+  width: 50%;
+
+  background-color: black;
+}
+
+.grön2 {
+  background-color: green;
+  border: 10px solid darkgreen
+}
+.inner3{
+  height: 50%;
+  width: 50%;
+
+  background-color: black;
+
+
+}
